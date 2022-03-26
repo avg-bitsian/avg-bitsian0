@@ -24,7 +24,7 @@ I am a sophomore student at BITS Pilani.  I enjoy watching Formula 1, air crash 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-# **Education**
+<!-- # **Education**
 <div class="row">
 {% include _data/education.html %}
-</div>
+</div> -->
