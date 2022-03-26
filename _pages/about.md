@@ -26,5 +26,5 @@ I am a sophomore student at BITS Pilani.  I enjoy watching Formula 1, air crash 
 
 # **Education**
 <div class="row">
-{% include about/education.html %}
+{% include _data/education.html %}
 </div>
