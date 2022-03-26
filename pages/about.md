@@ -2,23 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Pilani, Rajasthan, India #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Vyas Bhawan 4135</p>
-    <p>Vidya Vihar, Pilani</p>
-    <p>Rajasthan, India</p>
+  # address: >
+  #   <p>Vyas Bhawan 4135</p>
+  #   <p>Vidya Vihar, Pilani</p>
+  #   <p>Rajasthan, India</p>
 
 <!-- news: true  # includes a list of news items -->
 <!-- selected_papers: true # includes a list of papers marked as "selected={true}" --> -->
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, there! I am **{{ site.author.name }}**.
-I am a sophomore student at BITS Pilani.  
+Hey, there!  
+
+I am **Priyansh Garg**.
+I am a sophomore student at BITS Pilani, majoring in Manufacturing Engineering.  
   
 I enjoy watching Formula 1, air crash investigations, Gordon Ramsay's cooking shows, and listening to American 80s Rock music. I am an extrovert by nature.  In my free time, I spend an ungodly amount of time browsing Quora and reddit. Sometimes, I make puns.
 
